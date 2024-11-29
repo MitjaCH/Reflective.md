@@ -8,5 +8,5 @@ import { JournalComponent } from './journal/journal.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-journal';
+  
 }
